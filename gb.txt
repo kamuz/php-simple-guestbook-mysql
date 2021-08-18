@@ -1,0 +1,20 @@
+Vladimir|Hello man|2021-08-18 22:57:08
+***
+Alex|Hello, how are you?|2021-08-18 22:57:23
+***
+Vladimir|I'm fine thanks|2021-08-18 22:57:33
+***
+Igor|Good job guys|2021-08-18 22:58:05
+***
+Vladimir|Heya|2021-08-18 23:07:31
+***
+Alex|Goodbye|2021-08-18 23:07:48
+***
+John|Hello people|2021-08-18 23:08:37
+***
+Vladimir|Nice to meet you|2021-08-18 23:08:46
+***
+John|How are you?|2021-08-18 23:19:33
+***
+Vladimir|Good morning|2021-08-18 23:19:48
+***
