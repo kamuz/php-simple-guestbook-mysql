@@ -1,4 +1,4 @@
-# Simple PHP guestbook based MySQL
+# Simple PHP guestbook based on MySQL
 
 Demo:
 
